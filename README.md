@@ -8,7 +8,7 @@ In my free time I like doing stuff in these languages:
 - ${\color{#777BB4}PHP}$
 - ${\color{#F0DB4F}JavaScript}$
 
-Head over to my **[personal website](https://roland31x.github.io/)** for more info!
+Head over to my **[personal website](https://roland31x.dev)** for more info!
 
 [<img src="https://s01.flagcounter.com/countxl/pERo/bg_1E1D26/txt_ABABAB/border_000000/columns_8/maxflags_20/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" width=100%>](https://info.flagcounter.com/pERo)
 <!--
