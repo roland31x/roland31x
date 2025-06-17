@@ -9,7 +9,7 @@ Head over to my **[personal website](https://roland31x.dev)** for more info!
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=roland31x&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=roland31x&theme=radical&no-frame=false&no-bg=true&margin-w=1)
+![](https://github-profile-trophy.vercel.app/?username=roland31x&theme=radical&no-frame=false&no-bg=true&margin-w=1&row=1)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 #
