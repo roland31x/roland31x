@@ -6,7 +6,7 @@ Head over to my **[personal website](https://roland31x.dev)** for more info!
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=roland31x&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=roland31x&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=roland31x&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=roland31x&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=12)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=roland31x&theme=radical&no-frame=false&no-bg=true&margin-w=1&row=1)
