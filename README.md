@@ -18,6 +18,8 @@ Head over to my **[personal website](https://roland31x.dev)** for more info!
   <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=kotlin" height="60" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo"  />
 </div>
 
 <hr>
@@ -42,6 +44,7 @@ Head over to my **[personal website](https://roland31x.dev)** for more info!
   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
   ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+  ![PHP](https://img.shields.io/badge/php-%23787CB5.svg?style=for-the-badge&logo=php&logoColor=white)
   
 </div>
 
