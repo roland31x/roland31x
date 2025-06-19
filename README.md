@@ -47,9 +47,12 @@ Head over to my **[personal website](https://roland31x.dev)** for more info!
 
 # 📊 GitHub Stats:
 <div align="center">
+  
   <img src="https://github-readme-stats.vercel.app/api?username=roland31x&theme=radical&hide_border=false&include_all_commits=true&count_private=true">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=roland31x&theme=radical&hide_border=false">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roland31x&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=roland31x&theme=radical&hide_border=false">
+  
+  
 </div>
 
 
