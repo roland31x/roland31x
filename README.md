@@ -6,20 +6,22 @@ Head over to my **[personal website](https://roland31x.dev)** for more info!
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cs" height="60" alt="cs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
+  <img width="12" /> 
   <img src="https://skillicons.dev/icons?i=js" height="60" alt="js logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" /> 
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ruby" height="60" alt="ruby logo"  />
-  <img width="12" />
+  <img width="12" />  
   <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=kotlin" height="60" alt="kotlin logo"  />
-  <img width="12" />
+  <img width="12" /> 
   <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ruby" height="60" alt="ruby logo"  />
+
+ 
 </div>
 
 <hr>
