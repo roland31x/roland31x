@@ -65,7 +65,7 @@ Head over to my **[personal website](https://roland31x.dev)** for more info!
 
 <div align="center">
   
-![](https://github-profile-trophy.vercel.app/?username=roland31x&theme=radical&no-frame=false&no-bg=true&margin-w=1&row=1)
+![](https://github-profile-trophy-sigma-one.vercel.app/?username=roland31x&theme=radical&no-frame=false&no-bg=true&margin-w=1&row=1)
 
 </div>
 
